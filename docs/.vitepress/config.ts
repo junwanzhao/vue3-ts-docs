@@ -15,7 +15,7 @@ export default defineConfig({
             { text: "CSS", link: "/CSS/" },
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/vuejs/vitepress" },
+            { icon: "github", link: "https://github.com/junwanzhao/vue3-ts-docs.git" },
         ],
         sidebar: {
             "/vue3-basic/": [
