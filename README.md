@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/logo.png" style="width:200px;" />
+<img src="https://hyzhu-oss.oss-cn-hangzhou.aliyuncs.com/images/logo.png" style="width:200px;" />
 </p>
 <h1 align="center">前端工程化学习文档</h1>
 <p align="center">
