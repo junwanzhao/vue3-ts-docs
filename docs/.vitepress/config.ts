@@ -6,7 +6,7 @@ export default defineConfig({
     description: "前端工程化学习笔记整理",
     themeConfig: {
         siteTitle: "前端学习",
-        logo: "/assets/logo.png",
+        logo: "https://hyzhu-oss.oss-cn-hangzhou.aliyuncs.com/images/logo.png",
         nav: [
             { text: "首页", link: "/" },
             { text: "ES6", link: "/ES6/" },
