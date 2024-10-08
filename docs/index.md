@@ -7,7 +7,7 @@ hero:
   text: "前端工程化学习笔记"
   tagline: "行动是打败焦虑的最好的方式。"
   image:
-    src: /assets/logo.png
+    src: https://hyzhu-oss.oss-cn-hangzhou.aliyuncs.com/images/logo.png
     alt: 前端工程化学习
   actions:
     - theme: brand
