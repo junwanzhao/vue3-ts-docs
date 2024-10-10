@@ -22,21 +22,17 @@ export default defineConfig({
                     text: "开始",
                     collapsible: true,
                     items: [
-                        { text: "HTML", link: "/HCJ/HTML.md" },
-                        { text: "CSS", link: "/HCJ/CSS.md" },
-                        { text: "JavaScript", link: "/HCJ/JavaScript/index.md" },
-                    ],
-                },
-            ],
-            "/HCJ/JavaScript/": [
-                {
-                    text: "开始",
-                    collapsible: true,
-                    items: [
-                        { text: "核心原理", link: "/HCJ/JavaScript/index.md" },
-                        { text: "ES6", link: "/HCJ/JavaScript/ES6.md" },
-                        { text: "NodeJS", link: "/HCJ/JavaScript/NodeJS.md" },
-                        { text: "TypeScript", link: "/HCJ/JavaScript/TypeScript.md" },
+                        { text: "HTML", link: "/HCJ/HTML/" },
+                        { text: "CSS", link: "/HCJ/CSS/" },
+                        {
+                            text: "JavaScript",
+                            items: [
+                                { text: "核心原理", link: "/HCJ/JavaScript/" },
+                                { text: "ES6", link: "/HCJ/JavaScript/ES6" },
+                                { text: "NodeJS", link: "/HCJ/JavaScript/NodeJS" },
+                                { text: "TypeScript", link: "/HCJ/JavaScript/TypeScript" },
+                            ],
+                        },
                     ],
                 },
             ],
